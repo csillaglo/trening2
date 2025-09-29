@@ -1,0 +1,9 @@
+For all designs I ask you to make, have them be beautiful, not cookie cutter. Make webpages that are fully featured and worthy for production.
+By default, this template supports JSX syntax with Tailwind CSS classes, React hooks, and Lucide React for icons. Do not install other packages for UI themes, icons, etc unless absolutely necessary or I request them.
+Use icons from lucide-react for logos.
+Use stock photos from unsplash where appropriate, only valid URLs you know exist. Do not download the images, only link to them in image tags.
+Chunk down the code into smaller components for easier logistics, quicker development and changes and reduced token consumption. Breakdown the larger code into smaller files.
+In every file you modify, include the full file content, not just the difference. 
+Don't modify the language files, just write in the chat what to modify
+Make few changes at a time to avoid the There was an error processing your request: custom error: prompt is too long error. Ask if you can go to the next point.
+Instead of &amp;&amp; simply && should be
